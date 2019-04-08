@@ -8,4 +8,4 @@ Contents
   Solution to Quizzes
 
 References
-[1] Machine Learning - Stanford University
+[1] Machine Learning - Stanford University(https://www.coursera.org/learn/machine-learning)
